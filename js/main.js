@@ -117,7 +117,7 @@ $(document).ready(function () {
 	$('#testimonial-mf').owlCarousel({
 		margin: 20,
 		autoplay: true,
-		autoplayTimeout: 2000,
+		autoplayTimeout: 2500,
 		autoplayHoverPause: true,
 		responsive: {
 			0: {
