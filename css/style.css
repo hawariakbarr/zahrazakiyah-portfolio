@@ -772,7 +772,7 @@ a:hover {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #fff;
+  background-color: #FFFFFF;
 }
 
 .work-box:hover img {
